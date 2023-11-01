@@ -24,13 +24,13 @@ class MyDrawer extends StatelessWidget {
                         borderRadius: BorderRadiusDirectional.circular(10)),
                     child: Center(
                         child: Text(
-                      "YS",
+                      "SF",
                     )),
                   ),
                 ),
               ),
               accountName: Text(
-                "Yadhun Sajith V V",
+                "Salman faris",
                 style: TextStyle(
                     color: Colors.black,
                     fontWeight: FontWeight.bold,
@@ -38,7 +38,7 @@ class MyDrawer extends StatelessWidget {
                 selectionColor: Colors.white,
               ),
               accountEmail: Text(
-                "+9175486523",
+                "+919567090771",
                 style: TextStyle(color: Colors.grey),
               )),
           Divider(
